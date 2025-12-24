@@ -1,0 +1,8 @@
+{
+  "name": "ClosetAI",
+  "description": "A sophisticated digital wardrobe and outfit-planning app that uses AI to organize your clothes, remove backgrounds, and suggest stylish combinations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
